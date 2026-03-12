@@ -1,0 +1,4 @@
+SET a 10
+SET b 5
+ADD a b
+PRINT a
