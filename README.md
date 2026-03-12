@@ -2,6 +2,12 @@
 
 Mini compilador para a linguagem fictícia **CalcLang 2.0**, desenvolvido em Python. O projeto implementa as três fases fundamentais de um compilador (análise léxica, sintática e semântica) e gera código equivalente em Python como saída.
 
+### Membros do Grupo
+
+- João Victor Lima Almeida Puglies
+- Thayná Carnaúba Dantas
+- José Lucas da Silva Cardoso
+
 ---
 
 ## Sumário
