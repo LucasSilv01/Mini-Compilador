@@ -8,6 +8,7 @@ Mini compilador para a linguagem fictícia **CalcLang 2.0**, desenvolvido em Pyt
 - Thayná Carnaúba Dantas
 - José Lucas da Silva Cardoso
 - ANDERSON GABRIEL BARBOSA DUARTE
+- Emylle Rayssa Silva Ramos
 
 ---
 
