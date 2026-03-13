@@ -5,9 +5,7 @@ Mini compilador para a linguagem fictícia **CalcLang 2.0**, desenvolvido em Pyt
 ### Membros do Grupo
 
 - João Victor Lima Almeida Puglies
-- Thayná Carnaúba Dantas
 - José Lucas da Silva Cardoso
-- ANDERSON GABRIEL BARBOSA DUARTE
 - Emylle Rayssa Silva Ramos
 
 ---
