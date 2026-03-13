@@ -1,4 +1,4 @@
-# Compilador CalcLang 2.0
+# Mini Compilador
 
 Mini compilador para a linguagem fictícia **CalcLang 2.0**, desenvolvido em Python. O projeto implementa as três fases fundamentais de um compilador (análise léxica, sintática e semântica) e gera código equivalente em Python como saída.
 
