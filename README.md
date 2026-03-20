@@ -6,7 +6,6 @@ Mini compilador para a linguagem fictícia **CalcLang 2.0**, desenvolvido em Pyt
 
 - João Victor Lima Almeida Puglies
 - José Lucas da Silva Cardoso
-- Emylle Rayssa Silva Ramos
 
 ---
 
